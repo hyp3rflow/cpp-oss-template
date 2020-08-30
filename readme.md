@@ -1,6 +1,6 @@
 # cpp-oss-template
 [![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](https://github.com/utilForever/cpp-oss-template/blob/master/LICENSE) 
-
+[![Build Status](https://travis-ci.com/hyp3rflow/cpp-oss-template.svg?branch=master)](https://travis-ci.com/hyp3rflow/cpp-oss-template.svg?branch=master)  
 cpp-oss-template is a simple template for C++ language based project.
 
 ## References
