@@ -1,5 +1,0 @@
-# ninja log v5
-1	251	620473216	Sources/cpp_practice/CMakeFiles/cpp_practice.dir/Test.cpp.obj	f617ff5cc4106e11
-252	474	620473216	lib/cpp_practice.lib	c581dcea7db150c4
-11	3551	620473220	Tests/UnitTests/CMakeFiles/UnitTests.dir/SimpleTest.cpp.obj	a06b99b9e54eb812
-3573	5126	620473221	bin/UnitTests.exe	5afa948a54a58c2e
