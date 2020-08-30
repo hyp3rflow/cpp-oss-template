@@ -15,6 +15,7 @@ CTestTestfile.cmake
 _deps
 out
 cmake-build-debug
+.vs
 
 ### CMake Patch ###
 # External projects
