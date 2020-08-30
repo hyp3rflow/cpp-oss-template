@@ -9,5 +9,5 @@
 
 TEST_CASE("Simple Test")
 {
-    CHECK(Add(2, 3) == 6);
+    CHECK(Add(2, 3) == 5);
 }
