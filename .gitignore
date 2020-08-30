@@ -16,6 +16,7 @@ _deps
 out
 cmake-build-debug
 .vs
+.idea
 
 ### CMake Patch ###
 # External projects
