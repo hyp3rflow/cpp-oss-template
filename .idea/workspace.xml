@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cpp_practice" targetName="UnitTests" />
+      <config projectName="cpp_practice" targetName="doctest_with_main" />
+      <config projectName="cpp_practice" targetName="cpp_practice" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96576c82-55ec-40a4-99e7-3bb3235cbaa3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/cpp_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/CMake Overview" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/cmake.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/doctest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/doctest/ALL_BUILD.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/doctest/ALL_BUILD.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/doctest/INSTALL.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/doctest/INSTALL.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/doctest/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/doctest/doctest.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/doctest/doctest_with_main.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/doctest/doctest_with_main.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/doctest/generated/doctestConfig.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries/doctest/generated/doctestConfigVersion.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/UnitTests/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/UnitTests/SimpleTest.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/.cmake/api/v1/query/client-MicrosoftVS/query.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/3.17.20032601-MSVC_2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/3.17.20032601-MSVC_2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/3.17.20032601-MSVC_2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/3.17.20032601-MSVC_2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/3.17.20032601-MSVC_2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/3.17.20032601-MSVC_2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/ShowIncludes/foo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/ShowIncludes/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/ShowIncludes/main.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/Sources/cpp_practice/CMakeFiles/cpp_practice.dir/Test.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/Sources/cpp_practice/CMakeFiles/cpp_practice.dir/cpp_practice.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/Sources/cpp_practice/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/VSInheritEnvironments.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/compile_commands.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/lib/cpp_practice.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/build/x64-Debug/rules.ninja" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1goHfyuFiBg7iWrwaltnWD0aozU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.overridden" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager" selected="CMake Application.cpp_practice">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTests" type="CMakeDoctestTestRunConfigurationType" factoryName="doctest Test" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_practice" TARGET_NAME="UnitTests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_practice" RUN_TARGET_NAME="UnitTests" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cpp_practice" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_practice" TARGET_NAME="cpp_practice" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_practice" RUN_TARGET_NAME="UnitTests">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doctest_with_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_practice" TARGET_NAME="doctest_with_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.doctest_with_main" />
+      <item itemvalue="CMake Application.cpp_practice" />
+      <item itemvalue="Doctest.UnitTests" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96576c82-55ec-40a4-99e7-3bb3235cbaa3" name="Default Changelist" comment="" />
+      <created>1598774136186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598774136186</updated>
+      <workItem from="1598774142398" duration="753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1374" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598774194012">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1374" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.299.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1598774194012" />
+    <state width="1233" height="281" key="GridCell.Tab.0.bottom" timestamp="1598774791228">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1233" height="281" key="GridCell.Tab.0.bottom/-1920.299.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1598774791228" />
+    <state width="1233" height="281" key="GridCell.Tab.0.center" timestamp="1598774791228">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1233" height="281" key="GridCell.Tab.0.center/-1920.299.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1598774791228" />
+    <state width="1233" height="281" key="GridCell.Tab.0.left" timestamp="1598774791228">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1233" height="281" key="GridCell.Tab.0.left/-1920.299.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1598774791228" />
+    <state width="1233" height="281" key="GridCell.Tab.0.right" timestamp="1598774791228">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1233" height="281" key="GridCell.Tab.0.right/-1920.299.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1598774791228" />
+  </component>
+</project>

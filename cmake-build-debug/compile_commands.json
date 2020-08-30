@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/flow/cpp_practice/cmake-build-debug/Libraries/doctest",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\PROFES~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP -DDOCTEST_CONFIG_IMPLEMENT_WITH_MAIN -IC:\\Users\\flow\\cpp_practice\\Includes -IC:\\Users\\flow\\cpp_practice\\Libraries -IC:\\Users\\flow\\cpp_practice\\Libraries\\doctest\\doctest -IC:\\Users\\flow\\cpp_practice\\Libraries\\doctest  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd   /FoCMakeFiles\\doctest_with_main.dir\\doctest\\parts\\doctest.cpp.obj /FdCMakeFiles\\doctest_with_main.dir\\doctest_with_main.pdb /FS -c C:\\Users\\flow\\cpp_practice\\Libraries\\doctest\\doctest\\parts\\doctest.cpp",
+  "file": "C:/Users/flow/cpp_practice/Libraries/doctest/doctest/parts/doctest.cpp"
+},
+{
+  "directory": "C:/Users/flow/cpp_practice/cmake-build-debug/Sources/cpp_practice",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\PROFES~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP  -IC:\\Users\\flow\\cpp_practice\\Includes -IC:\\Users\\flow\\cpp_practice\\Libraries -IC:\\Users\\flow\\cpp_practice\\Libraries\\doctest\\doctest -IC:\\Users\\flow\\cpp_practice\\Sources\\cpp_practice -IC:\\Users\\flow\\cpp_practice\\Sources\\cpp_practice\\..\\..\\Libraries  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd   /MP /W4 /wd4819 -std:c++17 /FoCMakeFiles\\cpp_practice.dir\\Test.cpp.obj /FdCMakeFiles\\cpp_practice.dir\\cpp_practice.pdb /FS -c C:\\Users\\flow\\cpp_practice\\Sources\\cpp_practice\\Test.cpp",
+  "file": "C:/Users/flow/cpp_practice/Sources/cpp_practice/Test.cpp"
+},
+{
+  "directory": "C:/Users/flow/cpp_practice/cmake-build-debug/Tests/UnitTests",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\PROFES~1\\VC\\Tools\\MSVC\\1427~1.291\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP  -IC:\\Users\\flow\\cpp_practice\\Includes -IC:\\Users\\flow\\cpp_practice\\Libraries -IC:\\Users\\flow\\cpp_practice\\Libraries\\doctest\\doctest -IC:\\Users\\flow\\cpp_practice\\Tests\\UnitTests -IC:\\Users\\flow\\cpp_practice\\Libraries\\doctest  /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd   /MP /W4 /wd4819 -std:c++17 /FoCMakeFiles\\UnitTests.dir\\SimpleTest.cpp.obj /FdCMakeFiles\\UnitTests.dir\\ /FS -c C:\\Users\\flow\\cpp_practice\\Tests\\UnitTests\\SimpleTest.cpp",
+  "file": "C:/Users/flow/cpp_practice/Tests/UnitTests/SimpleTest.cpp"
+}
+]

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CMake",
+    "\\Includes\\cpp_practice",
+    "\\Libraries\\doctest",
+    "\\Sources\\cpp_practice",
+    "\\Tests\\UnitTests"
+  ],
+  "SelectedNode": "\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}
