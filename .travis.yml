@@ -10,7 +10,7 @@ matrix:
         packages:
         - g++-7
       sonarcloud:
-        organization: hyp3rflow
+        organization: "hyp3rflow"
         token:
           secure: "hYrIAj6vNKDVATRxv9bMQFs0zltwwz7gnqmaGqgSXMO5cyw8yBytKB6Ri866+F9p/y0GWL8R8E9h4oixWz6AeCeZ3Ni6iJXLsmBxJ53b4CHvrvEnbovWtQQz7WqrrrtULhpyAEHVE4bX4wg9773U3Y75xitvYWreCGQOZTofagsLLxO1Vq73luMlG/uE1smd06MDvWpgxXhg2PO1bwBgcPQtEXn4x+OpwgviBt1jDbOH3FUyyx1U4RLYy/y/bw8CX/4Qn6t9zF38KFD/ibge+Ku+P4KLu0Wymytf6URYU83kP31JcL60Ghltxe1t0lzJVpjHSDChVr3Ic7lvA78yF4qWZpC1AgmTYBxf2Yb12kwpQlwLw/zlX7EbSabZkcEp/SUV4y2MskZnBd4yCeyj/qQkfZfb8yeEDdqDSyzGu1BmiiUGYt+cNMwpgiFko/MhCoCD7E89nQWNtcircGXSpq8KJzIghArzqTRILezEzCDEi4Kc2/q6M+83zNJVOKdE1aWyvYXljhKhFuj8W4clzDJ6HNaeefh6pWYinyPcNCnn6gDrDGlEWHZFarQMY9vy0y4jTkQcvmqVgNfGkf6MG+OwEpRChEcf51az0JrKhCv4cOP3clAMDQtLyMwXhLTiksGvx/4Ao2fAJydZgUmDHyrgKziQSBN8p+/oaReHzwM="
     dist: xenial
