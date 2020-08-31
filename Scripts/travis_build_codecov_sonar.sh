@@ -30,4 +30,4 @@ chmod +x .codecov
 ./.codecov
 
 cd ..
-sonar-scanner -X
+sonar-scanner

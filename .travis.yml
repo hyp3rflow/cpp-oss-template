@@ -20,13 +20,7 @@ matrix:
       env:
         - BUILD_TYPE=Debug
       script:
-        - |
-          if [[ -n "${TRAVIS_PULL_REQUEST_SLUG}" && "${TRAVIS_PULL_REQUEST_SLUG}" != "${TRAVIS_REPO_SLUG}" ]]; then
-            echo "The pull request from ${TRAVIS_PULL_REQUEST_SLUG} is an EXTERNAL pull request. Skip sonar analysis."
-            sh Scripts/travis_build_codecov.sh
-          else
-            sh Scripts/travis_build_codecov_sonar.sh
-          fi
+        - sh Scripts/travis_build_codecov_sonar.sh
     - name: Ubuntu 18.04 LTS + gcc
       os: linux
       dist: bionic
