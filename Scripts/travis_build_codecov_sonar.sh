@@ -30,4 +30,4 @@ chmod +x .codecov
 ./.codecov
 
 cd ..
-sonar-scanner
+sonar-scanner -Dsonar.cfamily.build-wrapper-output=bw-output
