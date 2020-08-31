@@ -13,7 +13,7 @@ matrix:
         sonarcloud:
           organization: "hyp3rflow"
           token:
-            secure: "iL+TVatxrTqSswFJy+9Hk53Aj6LQx2j3MtyoByGyFgXp2DtP2yjcWuySNll2qSlYx88tWLvV9g0Ltvepr1pvnh2uH3YsPV2xzNOTpiTYrEuiy7ynxZnuON+I4MMJL5Y3tIiICrv3OD47vo48j690ptaMr+umsH3o+UpIDqxxPT65Kc0WPpIbG0KfAkZmk7Cb2cKh3Cq27vQc76UL/RDHE8Im03tKlYOw9Qt7MxOaO71vvRIi+27308H2dnLAd/h1e77BvoFnYsKZ53zmYbOmzZ7Q1OsBWuacIQSGde8A8wtHCeUcmYbn6m/UwcqZlomGifdzTCqsYpkqLWMhDgAiTX+3YO+9v/Nm0CyK7k/wZGegiZmYTC0IztNWI5VSlOOVIUMv9QaCfeYKOyrKJDCEjFVsj6vlTJuAe5z/O6uJ4l5Cyt0ti2s2ut23aoYo/0lY22CIzO+TZKIuK44/QbhBFT2hTNzLU6ftvn8ReNl4UZD2mwvvCwHAiGRpwKWrPM7qvtKmv6KaMN9e23nO94IpsEdn7bXyt48LF17S/7g+HqXuzwV+oykXGlpDPJIjvwxlLVPq1sOtCUmAK6/VLYpFs+yjtBjsOokF13fLatI7y6dnAQw0UuNSnlsyKM83Izs5jjm8unCNtgkrNnPM695S/WLowXKEyBBfTb3vrZfpDCY="
+            secure: "U5/IiYchtLc6fYd4Y3xj8UemFUtzGF1UrJlNIhauFtTpB9/Qd9ay8npGtU/nvZwt9oxxAPVH89VDZI9rEQXXsR0vyYBN6ReBvN0GQRnztxIOrvSFNzgn3L7aeODD4uwb/W5YIpfPFLLkCq3RMMsr4fCwfO+st20LmyYaWDga4Hhn46VW2gBiJU+XmN9J9USqX9TMvkQ8iRqAHDlCVbFg8r57DP8ZXYzCUfu4rB35cT9vGLdFzwqfG3Q3GFKvKuCRwVI62jYJRl1t6Ufhckn0htoRfwyZpD/OD9DQ0sApbopFWVHeifT+KclqxtWF+WJfzi3O6+80GCDfrpLe4OTfYbymTimdx4br3XJIeRGGHQ6nUiCyFkSiV60/BnDYrC5cdW9iJxuLGtQXUYAysu6mMKr+Qe7Xu6RYaK0Af/m3ryLuft5SeQrwRdwTqAxCJojCyFl8JOy1e5w/dBcnr28aN46+KsUpEvYKUFnMl1csyldV3ekCIb6XZO4q4xdvJgKdwJBLNl8u0GhoYR6m/fGpW0pYt02WPmMp3CMaYRJyhZIqm7E3DDi/bC9o4KNcJbY+YJj5J6SBSZvr6+FCwKObKRdIl7Tu+8SrTmQ2fTQVkFBtWJTNdfL0TMYY0S9XF8lJy95wckeJSULIWOCvatbPRnALKfNZ+aUEuTyjWtV1eec="
       dist: xenial
       sudo: required
       compiler: gcc
