@@ -1,2 +1,13 @@
-- name: Codecov
-  uses: codecov/codecov-action@v1.0.13
+name: Test workflow for Codecov
+on: [push]
+jobs:
+  run:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+    env:
+      OS: ${{ matrix.os }}
+    steps:
+    - name: Codecov
+      uses: codecov/codecov-action@v1.0.13
