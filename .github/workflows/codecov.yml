@@ -37,6 +37,6 @@ jobs:
     - name: Build
       run: cd build && make
     - name: Run Test
-      run: /home/runner/work/cpp-oss-template/cpp-oss-template/build/Tests/UnitTests
+      run: /home/runner/work/cpp-oss-template/cpp-oss-template/build/bin/UnitTests
     - name: Upload coverage to Codecov
       run: bash <(curl -s https://codecov.io/bash)
