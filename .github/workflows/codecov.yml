@@ -1,13 +1,42 @@
-name: Test workflow for Codecov
-on: [push]
+name: Ubuntu - Codecov
+
+on:
+  [push]
+  
 jobs:
-  run:
-    runs-on: ${{ matrix.os }}
+  build-ubuntu:
     strategy:
       matrix:
-        os: [ubuntu-latest, macos-latest, windows-latest]
-    env:
-      OS: ${{ matrix.os }}
+        include:
+          # Ubuntu 20.04 + gcc-9
+          - name: "Ubuntu 20.04 + gcc-9"
+            os: ubuntu-20.04
+            compiler: gcc
+            version: "9"
+
+    runs-on: ${{ matrix.os }}
+    name: ${{ matrix.name }}
+
     steps:
-    - name: Codecov
-      uses: codecov/codecov-action@v1.0.13
+    - uses: actions/checkout@v1
+      with:
+        submodules: true
+    - name: Install packages
+      run: sudo apt-get install -yq lcov
+    - name: Configure Compiler
+      run: |
+        if [ "${{ matrix.compiler }}" = "gcc" ]; then
+          echo "::set-env name=CC::gcc-${{ matrix.version }}"
+          echo "::set-env name=CXX::g++-${{ matrix.version }}"
+        else
+          echo "::set-env name=CC::clang-${{ matrix.version }}"
+          echo "::set-env name=CXX::clang++-${{ matrix.version }}"
+        fi
+    - name: Configure Build
+      run: mkdir build && cd build && cmake -DCMAKE_BUILD_TYPE=Debug -DBUILD_COVERAGE=ON ..
+    - name: Build
+      run: cd build && make
+    - name: Run Test
+      run: /home/runner/work/cpp-oss-template/cpp-oss-template/build/bin/unit_test
+    - name: Upload coverage to Codecov
+      run: bash <(curl -s https://codecov.io/bash)
